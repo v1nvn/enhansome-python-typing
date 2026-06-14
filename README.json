@@ -13,7 +13,7 @@
             "last_commit": "2025-09-10T06:25:04Z",
             "owner": "KotlinIsland",
             "repo": "basedmypy",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-13T02:08:04Z",
+            "last_commit": "2026-06-13T10:31:27Z",
             "owner": "DetachHead",
             "repo": "basedpyright",
-            "stars": 3408
+            "stars": 3409
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2026-06-12T16:52:37Z",
             "owner": "python",
             "repo": "mypy",
-            "stars": 20475
+            "stars": 20477
           }
         },
         {
@@ -80,10 +80,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-13T04:24:42Z",
+            "last_commit": "2026-06-13T20:50:51Z",
             "owner": "facebook",
             "repo": "pyrefly",
-            "stars": 6632
+            "stars": 6635
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-06-06T11:58:01Z",
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15477
+            "stars": 15475
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-06-12T13:41:04Z",
             "owner": "astral-sh",
             "repo": "ty",
-            "stars": 18932
+            "stars": 18937
           }
         },
         {
@@ -145,10 +145,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-12T07:31:29Z",
+            "last_commit": "2026-06-13T22:51:44Z",
             "owner": "zubanls",
             "repo": "zuban",
-            "stars": 1082
+            "stars": 1083
           }
         }
       ],
@@ -164,7 +164,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-12T05:44:02Z",
+            "last_commit": "2026-06-14T06:35:45Z",
             "owner": "beartype",
             "repo": "beartype",
             "stars": 3438
@@ -177,10 +177,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T21:52:42Z",
+            "last_commit": "2026-06-13T14:04:46Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28019
+            "stars": 28023
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-05-20T14:59:39Z",
             "owner": "django",
             "repo": "asgiref",
-            "stars": 1623
+            "stars": 1622
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-06-12T19:25:09Z",
             "owner": "boto",
             "repo": "boto3",
-            "stars": 9832
+            "stars": 9833
           }
         },
         {
@@ -313,7 +313,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-12T23:07:06Z",
+            "last_commit": "2026-06-14T00:33:03Z",
             "owner": "sbdchd",
             "repo": "celery-types",
             "stars": 147
@@ -326,7 +326,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-12T23:53:20Z",
+            "last_commit": "2026-06-13T22:54:32Z",
             "owner": "typeddjango",
             "repo": "django-stubs",
             "stars": 1944
@@ -339,7 +339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T20:13:27Z",
+            "last_commit": "2026-06-13T22:38:10Z",
             "owner": "typeddjango",
             "repo": "djangorestframework-stubs",
             "stars": 535
@@ -417,7 +417,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-12T17:36:49Z",
+            "last_commit": "2026-06-13T14:00:46Z",
             "owner": "scipy",
             "repo": "scipy-stubs",
             "stars": 91
@@ -451,7 +451,7 @@
             "last_commit": "2025-05-02T08:44:58Z",
             "owner": "patrick-kidger",
             "repo": "torchtyping",
-            "stars": 1482
+            "stars": 1481
           }
         },
         {
@@ -474,7 +474,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-13T03:59:58Z",
+            "last_commit": "2026-06-14T00:48:19Z",
             "owner": "python",
             "repo": "typeshed",
             "stars": 5075
@@ -519,10 +519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-12T23:18:28Z",
+            "last_commit": "2026-06-13T22:16:38Z",
             "owner": "jorenham",
             "repo": "optype",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -749,10 +749,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-13T06:12:29Z",
+            "last_commit": "2026-06-14T06:11:41Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 47954
+            "stars": 47966
           }
         }
       ],
@@ -807,7 +807,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-13T01:29:12Z",
+            "last_commit": "2026-06-13T22:31:35Z",
             "owner": "realpython",
             "repo": "pytest-mypy",
             "stars": 257
@@ -894,7 +894,7 @@
             "last_commit": "2026-06-12T16:52:37Z",
             "owner": "python",
             "repo": "mypy",
-            "stars": 20475
+            "stars": 20477
           }
         },
         {
@@ -1009,7 +1009,7 @@
             "last_commit": "2026-02-11T02:19:15Z",
             "owner": "Instagram",
             "repo": "MonkeyType",
-            "stars": 4996
+            "stars": 4998
           }
         },
         {
@@ -1171,7 +1171,7 @@
             "last_commit": "2026-06-12T16:52:37Z",
             "owner": "python",
             "repo": "mypy",
-            "stars": 20475
+            "stars": 20477
           }
         },
         {
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-06-04T23:22:12Z",
             "owner": "microsoft",
             "repo": "pylance-release",
-            "stars": 2085
+            "stars": 2088
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-06-12T04:11:12Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 302642
+            "stars": 302800
           }
         },
         {
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:17:44.258Z",
+    "last_updated": "2026-06-14T06:41:45.282Z",
     "original_repository": "typeddjango/awesome-python-typing",
     "source_repository": "v1nvn/enhansome-python-typing",
     "source_repository_description": null,
